@@ -1,0 +1,18 @@
+	Implement an algorithm where the user enters a number and displays an appropriate month.
+Start
+Get the number from the user N 
+If N is equal to 1 print January 
+Else if N is equal to 2 print February
+Else if N is equal to 3 print March
+Else if N is equal to 4 print April
+Else if N is equal to 5 print may
+Else if N is equal to 6 print June
+Else if N is equal to 7 print July
+Else if N is equal to 8 print August
+Else if N is equal to 9 print September
+Else if N is equal to 10 print October
+Else if N is equal to 11 print November
+Else if N is equal to 12 print December 
+Else print an invalid number 
+End 
+
