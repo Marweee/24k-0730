@@ -1,0 +1,9 @@
+	Create a small calculator which only does ‘+’ or ‘-‘Operations.
+Start
+Input num1 num2
+Input operator +, -
+If operation = + then 
+Print sum= num1+num2
+Else 
+Print sum=num1-num2
+End
