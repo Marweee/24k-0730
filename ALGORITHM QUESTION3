@@ -1,0 +1,19 @@
+Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+Start
+Ask the user to enter num1
+Ask the user to enter num2 
+Ask the user to enter operator (+,-,/,%,*)
+Declare result =0
+If operator is + then
+Print result = num1+num2
+Else if operator is – then 
+Print result = num1-num2
+Else if operator is / then
+Print result = num1/num2
+Else if operator is % then 
+Print result = num1%num2
+Else if operator is * then 
+Print result = num1*num2
+Else 
+Print invalid operator
+End
